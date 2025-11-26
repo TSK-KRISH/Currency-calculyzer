@@ -1,6 +1,6 @@
-# Currency & Value Calculator App
+# Currency Calculyzer App
 
-A React application with two powerful features: Currency Calculator + Analyzer = Calculyzer
+A React 2-in-1 application with two powerful features: Currency Calculator + Analyzer = Calculyzer
 
 ## Features
 
