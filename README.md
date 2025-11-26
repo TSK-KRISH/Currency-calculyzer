@@ -1,6 +1,6 @@
 # Currency & Value Calculator App
 
-A React application with two powerful features:
+A React application with two powerful features: Currency Calculator + Analyzer = Calculyzer
 
 ## Features
 
@@ -11,7 +11,7 @@ A React application with two powerful features:
 - Swap currencies with one click
 - Shows current exchange rate
 
-### 2. Historical Value Calculator 📈
+### 2. Historical Value Analyzer 📈
 - Calculate how much money from the past is worth today
 - Accounts for inflation over time
 - Shows total inflation percentage
@@ -69,5 +69,5 @@ npm run build
 ## Notes
 
 - Currency conversion uses live data and updates automatically
-- Historical value calculator includes fallback calculation if API is unavailable
+- Historical value analyzer includes fallback calculation if API is unavailable
 - All data is fetched from official and verified sources
